@@ -40,7 +40,7 @@ Includes:
 git clone https://github.com/yashverma8290/opencv-vision-toolkit.git
 cd opencv-vision-toolkit
 
-## 2️⃣ Set Up Environment
+### 2️⃣ Set Up Environment
 Install OpenCV and other dependencies:
 
 ```bash
@@ -49,16 +49,16 @@ pip install -r requirements.txt
 pip install opencv-python
 
 
-# 🧠 Who Is This For?
+### 🧠 Who Is This For?
 >Beginners learning OpenCV
 >Developers building vision-based prototypes
 >Students experimenting with camera and image input
 
-# 🛠️ Contributing
+#### 🛠️ Contributing
 Contributions, ideas, and improvements are welcome. Feel free to fork and make a pull request.
 
-📄 License
+###📄 License
 This project is licensed under the MIT License.
 
-# ⭐️ Support
+### ⭐️ Support
 If you find this toolkit helpful, consider ⭐️ starring the repo!
